@@ -1,5 +1,5 @@
 <h1 align="center">Resumo</h3>
-<p> Olá Devs!! Eu me chamo Saulo Alves Magalhães, graduado em Engenharia Civil e atualmente estudante de desenvolvimento web na Trybe onde venho desenvolvendos habilidades no intuito de obter o conhecimento necessário para me tornar Dev. Júnior. </p>
+<p> Olá Devs!! Eu me chamo Saulo Alves Magalhães, graduado em Engenharia Civil e atualmente estudante de desenvolvimento web na Trybe onde venho desenvolvendo habilidades no intuito de obter o conhecimento necessário para me tornar um Dev. Júnior. </p>
 
 <h2 align="center">Tecnologias</h3>
 <div style:"display: inline_block" align="center">
