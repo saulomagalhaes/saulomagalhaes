@@ -14,7 +14,7 @@
 
 ##
 ### Estatísticas
-<div>
+<div style:"display: inline_block">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=saulomagalhaes&show_icons=true&theme=radical" />
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomagalhaes&layout=compact&theme=radical" />
 </div>
