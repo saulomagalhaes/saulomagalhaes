@@ -13,8 +13,8 @@
 
 <h2 align="left">Estatísticas</h3>
 <div style:"display: inline_block" align="center">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api?username=saulomagalhaes&show_icons=true&theme=radical" />
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomagalhaes&layout=compact&theme=radical" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=saulomagalhaes&show_icons=true&theme=radical" />
+  <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomagalhaes&layout=compact&theme=radical" />
 </div>
 <div>
 <h2 align="center">Redes Sociais</h3>
