@@ -1,10 +1,10 @@
 <h2> Resumo </h2>
 <p align="left"> 
- 🖖 Olá Devs!! Eu me chamo <strong>Saulo Alves Magalhães </strong>, graduado em Engenharia Civil e atualmente estudante de desenvolvimento web na Trybe onde venho desenvolvendo habilidades com o intuito de obter o conhecimento necessário para me tornar um Dev. Júnior. .
+ 🖖 <strong>Olá Devs!!</strong> Eu me chamo <strong>Saulo Alves Magalhães </strong>, graduado em Engenharia Civil e atualmente estudante de desenvolvimento web na Trybe onde venho desenvolvendo habilidades com o intuito de obter o conhecimento necessário para me tornar um Dev. Júnior. .
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Jest, ReactJS, Styled Components, React Testing Library.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, Jest, ReactJS, Styled Components, React Testing Library, React Router, Redux.</strong>
 </p>
 
 <p align="left">
@@ -17,7 +17,7 @@
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saulomagalhaes&layout=compact&theme=radical" />
 </div>
 <div>
-<h2 align="center">Redes Sociais</h3>
+<h2 align="center">Contato</h3>
 </div>
 <div align="center">
   <a href="https://www.instagram.com/saulo_magalhaes1/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
