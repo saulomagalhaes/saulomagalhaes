@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Jest, ReactJS, Styled Components, React Testing Library, React Router, Redux.</strong>
+ ☕ Habilidades: <strong>HTML, CSS, JavaScript, TypeScript, Jest, ReactJS, Styled Components, React Testing Library, React Router, Redux.</strong>
 </p>
 
 <p align="left">
