@@ -4,7 +4,17 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, TypeScript, Jest, ReactJS, Styled Components, React Testing Library, React Router, Redux, Docker, MySQL</strong>
+ ☕ Habilidades --> 
+</p>
+
+<p align="left">
+:computer: Front-End: 
+ <strong>HTML, CSS, JavaScript, TypeScript, ReactJS, NextJs, Redux, Styled Components, React Testing Library, Jest.</strong>
+</p>
+
+<p align="left">
+ :computer: Back-End: 
+ <strong>Docker, MySQL</strong>
 </p>
 
 <p align="left">
