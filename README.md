@@ -14,7 +14,7 @@
 
 <p align="left">
  :computer: Back-End: 
- <strong>Docker, MySQL</strong>
+ <strong>Docker, MySQL, Node, Express, Swagger</strong>
 </p>
 
 <p align="left">
