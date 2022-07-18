@@ -1,6 +1,6 @@
 <h2> Resumo </h2>
 <p align="left"> 
- 🖖 <strong>Olá Devs!!</strong> Eu me chamo <strong>Saulo Alves Magalhães </strong>, graduado em Engenharia Civil e atualmente estudante de desenvolvimento web na Trybe onde venho desenvolvendo habilidades com o intuito de obter o conhecimento necessário para me tornar um desenvolvedor qualificado. 
+ 🖖 <strong>Olá Devs!!</strong> Eu me chamo <strong>Saulo Alves Magalhães </strong>, sou graduado em Engenharia Civil e estou em processo de transição de carreira. Atualmente sou estudante de desenvolvimento web na Trybe onde venho desenvolvendo habilidades com o intuito de obter o conhecimento necessário para me tornar um desenvolvedor qualificado. 
 </p>
 
 <p align="left">
