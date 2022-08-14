@@ -14,7 +14,7 @@
 
 <p align="left">
  :computer: Back-End: 
- <strong>Docker,TypeScript, MySQL, Node, Express, Sequelize, JWT, POO, Swagger</strong>
+ <strong>Docker,TypeScript, MySQL, Node, Express, Sequelize, JWT, POO, Mocha, Chai, Sinon, Swagger</strong>
 </p>
 
 <p align="left">
