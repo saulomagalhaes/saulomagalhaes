@@ -9,16 +9,16 @@
 
 <p align="left">
 :computer: Front-End: 
- <strong>HTML, CSS, JavaScript, TypeScript, ReactJS, NextJs, Redux, Styled Components, React Testing Library, Jest.</strong>
+ <strong>HTML, CSS, JavaScript, TypeScript, ReactJS, Redux, ContextAPI, NextJs, Styled Components, MaterialUI, React Testing Library.</strong>
 </p>
 
 <p align="left">
  :computer: Back-End: 
- <strong>Docker,TypeScript, Node, Express, MySQL, MongoDB, Sequelize, JWT, POO, SOLID, Mocha, Chai, Sinon, Swagger.</strong>
+ <strong>Docker, TypeScript, Node, Python, Express, MySQL, MongoDB, Sequelize, Mongoose, JWT, POO, SOLID, Mocha, Chai, Sinon, Swagger.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Trello, Git e GitHub.</strong>
+  💼 Ferramentas: <strong>VS Code, Trello, Git, Gitflow, GitHub.</strong>
 </p>
 
 <h2 align="left">Estatísticas</h3>
