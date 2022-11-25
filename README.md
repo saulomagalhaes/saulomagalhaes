@@ -14,7 +14,7 @@
 
 <p align="left">
  :computer: Back-End: 
- <strong>Docker, TypeScript, Node, Python, Express, MySQL, MongoDB, Sequelize, Mongoose, JWT, POO, SOLID, Mocha, Chai, Sinon, Swagger.</strong>
+ <strong>Docker, TypeScript, Node, Python, Express, NestJs, MySQL, MongoDB, Sequelize, Mongoose, JWT, POO, SOLID, Mocha, Chai, Sinon, Swagger.</strong>
 </p>
 
 <p align="left">
