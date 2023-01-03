@@ -1,10 +1,10 @@
 <h2> Resumo </h2>
 <p align="left"> 
- 🖖 <strong>Olá visitante!!</strong> Eu me chamo <strong>Saulo Alves Magalhães</strong>, sou graduado em Engenharia Civil e atualmente estou em processo de transição de carreira onde venho desenvolvendo habilidades constantemente no intuito de me tornar um profissional qualificado e poder agregar valor em qualquer time em que eu esteja.
+ 🖖 <strong>Olá visitante!!</strong> Me chamo <strong>Saulo Alves Magalhães</strong>, sou graduado em Engenharia Civil e atualmente estou em processo de transição de carreira onde venho desenvolvendo habilidades constantemente no intuito de me tornar um profissional qualificado.
 </p>
 
 <p align="left">
- ☕ Habilidades --> 
+ ☕ Habilidades
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 
 <p align="left">
  :computer: Back-End: 
- <strong>Docker, TypeScript, Node, Express, NestJs, .NET, ASPNET Core, Python, MySQL, MongoDB, Sequelize, Mongoose, JWT, Mocha, Chai, Sinon, Swagger.</strong>
+ <strong>Node, C#, Python, .NET, TypeScript, Express, NestJs, Docker, MySQL, MongoDB, Sequelize, JWT, Mocha, Chai, Sinon, Swagger.</strong>
 </p>
 
 <p align="left">
